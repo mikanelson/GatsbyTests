@@ -20,7 +20,7 @@ describe("Index", () => {
     const data = {
       site: {
         siteMetadata: {
-          author: "Your name",
+          author: "Mika Nelson",
         },
       },
     }

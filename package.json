@@ -39,6 +39,7 @@
   "scripts": {
     "test": "jest",
     "develop": "gatsby develop",
+    "start": "npm run develop",
     "cy:open": "cypress open",
     "test:e2e": "start-server-and-test develop http://localhost:8000 cy:open"
   },
